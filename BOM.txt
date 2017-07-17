@@ -1,0 +1,10 @@
+To make these fairing stays, you need six components for each side:
+
+1) Printed/machined part for upper fairing connection (at windshield) - see "ducfairingstaytop.stl" - you can make this from plastic, if it's tough enough to be threaded
+2) M6-1.0 threaded rod, about 130mm long - this is the link between the bracket and the windshield
+3) 1 M6-1.0 jamnut - this keeps things stable
+4) Hillman part 883814 - M6 ball joint Assembly (check in pictures to confirm) - you can reuse the existing nut on the fairing
+5) 1 M5-0.8 x 30mm caphead screw - this replaces the short windshield screw and provides a place to mount the upper connection
+6) 1 M5-0.8 locknut and washer
+
+You'll also need an M6-1.0 tap, to make threads in the fairing connector. The part is designed with the requisite 5mm hole for this tap, but you may need to finalize the dimension, depending on the quality of your printing/machining process.
