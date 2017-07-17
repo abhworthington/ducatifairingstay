@@ -1,0 +1,20 @@
+The process for making and installing is fairly simple. We break it into 3 steps: prepping parts, putting them together, and installing.
+
+- Prepping parts
+-- Print/machine upper fairing mounts (2) using STL file in repo or according to drawings in repo
+-- Tap cylindrical section of mount w/ M6x1.0 tap, bottoming if possible
+-- Cut two lengths of M6 rod to 130-135mm, clean threads
+
+- Putting parts together
+-- Thread upper mount completely onto rod. Use threadlocker if appropriate.
+-- Thread jamnut onto opposite end, followed by balljoint assembly, thread to bottom of balljoint threading
+
+- Installing
+-- remove windshield screw, replace with 30mm M5x0.8 screw
+-- slide upper mount over extended screw threads
+-- retain with locknut and washer
+-- remove screw attaching fairing mount to gauge cluster mount (take care not to drop nut on backside of the bolt)
+-- spin balljoint assembly out to appropriate length, where stud/rod puts gentle tension on fairing
+-- retain balljoint arm with nut
+-- tighten locknut to balljoint
+-- repeat on other side
